@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **As a** [Role]<br>
-**I need** [Function]
-**So that** [Benefit]
+**I need** [Function]<br>
+**So that** [Benefit]<br>
 
-### Details and Assumptions
-- [Document what you know]
+### Details and Assumptions<br>
+-[Document what you know]<br>
 
-### Acceptance Criteria:
-Given [Some context]
-When [Certain action is taken]
+### Acceptance Criteria:<br>
+Given [Some context]<br>
+When [Certain action is taken]<br>
 Then [The outcome of action is observed]
